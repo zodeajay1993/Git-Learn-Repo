@@ -10,7 +10,10 @@
 		System.out.println("number two is : "+b);
 		c=a+b;
 		System.out.println("Addition of two numbers is : "+c);
-		
+        for(int i=0;i<=5;i++){
+
+		Sysout(i);
+}
 	}
 
 }
