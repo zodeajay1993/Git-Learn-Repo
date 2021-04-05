@@ -15,6 +15,8 @@
 		Sysout(i);
 }
         print(i):
+
+System.out.println("Addition of two numbers is : "+c);
 	}
 
 }
