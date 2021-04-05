@@ -14,6 +14,7 @@
 
 		Sysout(i);
 }
+        print(i):
 	}
 
 }
